@@ -1,2 +1,3 @@
 # forget-gumwaa
-Forget Gumwaa, have funwaa.
+
+Replace all alphanumeric letters with random emojis.
